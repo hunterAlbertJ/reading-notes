@@ -8,3 +8,7 @@
     * CMOS is a small battery-powered memory module that retains user settings and other information such as the time and date
 6. What is the CMOS battery?
     * A battery that provides constant power to the CMOS memory module. Removing this will cause the information to be lost
+## Things I want to know more about
+1. What are the implications of firmware-based attacks like BIOS rootkits, and how can advanced BIOS configuration techniques such as secure boot and BIOS integrity measurement mitigate these threats?
+2. How do BIOS configuration standards like the Unified Extensible Firmware Interface (UEFI) and ACPI influence the development and interoperability of system firmware across different hardware platforms and operating environments?
+1. What is the process of reverse engineering and analyzing BIOS firmware binaries to uncover potential vulnerabilities or hidden features, and how can this knowledge be leveraged for defensive or offensive security purposes?
