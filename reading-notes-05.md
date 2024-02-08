@@ -10,3 +10,8 @@
 } else {
    system.out.printlin("NOT linux')
 }
+
+## Things I would like to know more about 
+1. How can I compile and customize the Linux kernel to optimize system performance or develop new hardware drivers?
+2. What advanced security practices can I implement to harden a Linux system, including configuring firewalls, managing access controls, and setting up enhanced security policies?
+3. How do I use containerization and orchestration technologies like Docker and Kubernetes to build, deploy, and manage containerized applications at scale on Linux systems?
