@@ -20,3 +20,8 @@
    * This is the actual protocol that the remote desktop connection uses to communicate with the two devices. These two devices are the server and the client
 5. What is the RDP port number?
    * 3389
+## Things I would like to know more about 
+
+* For SFTP: How can I implement key-based authentication in SFTP to enhance security beyond just password-based authentication?
+* For SSH: What are the best practices for hardening an SSH server, particularly in terms of configuring ciphers, MACs, and key exchange algorithms?
+* For RDP: What specific measures can I take to secure RDP access against brute force attacks and vulnerabilities, considering both network-level and software configurations?
