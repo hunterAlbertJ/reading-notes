@@ -1,5 +1,5 @@
 1. What is the difference between Bash and PowerShell?
- * PowerShell is not just a shell; it is a complete scripting environment. PowerShell scripts share complex data, passing entire data objects structures between commands. Where Bash just moves data in and out
+ * PowerShell is a complete scripting environment. PowerShell scripts can modify and move around complex data, passing entire data objects structures between commands. Where Bash just moves data in and out
 2. In what scenarios or environments can you use PowerShell? Name some major platforms where PowerShell is supported.
  *  You can use Powershell in most Windows environments such as Windows and azure. 
 4. List at least three reasons why learning PowerShell could be beneficial for your career and environment.
